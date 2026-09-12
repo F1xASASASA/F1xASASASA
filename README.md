@@ -83,11 +83,7 @@
 <div align="center">
 
 [![visitka](https://img.shields.io/badge/visitka-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/visitka)
-[![Forum](https://img.shields.io/badge/Forum-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/Forum)
 [![cps_limiter](https://img.shields.io/badge/cps__limiter-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/cps_limiter)
-[![server](https://img.shields.io/badge/server-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/server)
-[![character-ai](https://img.shields.io/badge/character--ai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/character-ai)
-[![9_may_](https://img.shields.io/badge/9__may__-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/9_may_)
 
 </div>
 
@@ -98,7 +94,6 @@
 <div align="center">
 
 > 💡 *Учусь, пишу код и делаю мир немного лучше, строчка за строчкой.*
-
 
 ![Snake animation](https://raw.githubusercontent.com/F1xASASASA/F1xASASASA/output/github-contribution-grid-snake.svg)
 
