@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1a1a2e&height=200&section=header&text=Привет,%20я%20Арсений!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=18%20лет%20%7C%20Разработчик&descAlignY=55&descSize=20" alt="Header banner" />
+<img src="assets/header.svg" alt="Header banner" width="100%" />
+
+<br>
+
+# Привет, я Арсений! 👋
+
+**18 лет · Веб-разработчик · Учусь и пишу код**
 
 <br>
 
@@ -37,7 +43,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:58A6FF&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 </div>
 
@@ -56,36 +62,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=F1xASASASA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1xASASASA&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="41%" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=F1xASASASA&theme=tokyonight&hide_border=true&background=00000000" width="60%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=F1xASASASA&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%" />
+<img src="https://raw.githubusercontent.com/F1xASASASA/F1xASASASA/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
 
 </div>
 
-> ⚠️ Если карточки выше не грузятся — это общий бесплатный сервис уперся в лимит запросов GitHub API. Обычно проходит само за пару минут, но если бесит — ниже есть инструкция, как за 2 минуты поднять свою копию, которая будет работать всегда.
->
-> <details>
-> <summary>🔧 Как задеплоить свою копию (надёжно, навсегда)</summary>
->
-> 1. Открой https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
-> 2. Залогинься через GitHub, нажми **Deploy**
-> 3. Через минуту получишь свою ссылку вида `твой-проект.vercel.app`
-> 4. Замени в README `github-readme-stats.vercel.app` на свою ссылку
->
-> Готово — больше никаких общих лимитов.
-> </details>
+> 📌 Картинка выше генерируется автоматически раз в сутки через GitHub Action (`metrics.yml`) и хранится прямо в этом репозитории — без сторонних сервисов вроде Vercel, поэтому не бывает 404 и лимитов. После первого запуска Action она появится сама.
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=40&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 </div>
 
 ### 🚀 Мои проекты
@@ -105,8 +91,13 @@
 
 > 💡 *Учусь, пишу код и делаю мир немного лучше, строчка за строчкой.*
 
-![Snake animation](https://raw.githubusercontent.com/F1xASASASA/F1xASASASA/output/github-contribution-grid-snake.svg)
+<!--
+Змейка появится тут САМА после того, как ты настроишь GitHub Action (см. snake.yml).
+Просто раскомментируй строку ниже после первого успешного запуска Action.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=120&section=footer" width="100%" />
+![Snake animation](https://raw.githubusercontent.com/F1xASASASA/F1xASASASA/output/github-contribution-grid-snake.svg)
+-->
+
+<img src="assets/footer.svg" width="100%" />
 
 </div>
