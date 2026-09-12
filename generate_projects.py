@@ -15,11 +15,7 @@ USERNAME = "F1xASASASA"
 # Список репозиториев для показа (в этом порядке и будут карточки)
 REPOS = [
     {"name": "visitka", "emoji": "🌐", "title": "Персональная визитка"},
-    {"name": "Forum", "emoji": "💬", "title": "Веб-форум"},
     {"name": "cps_limiter", "emoji": "⚡", "title": "Инструмент для работы с кликами"},
-    {"name": "server", "emoji": "🖥️", "title": "Серверный проект"},
-    {"name": "character-ai", "emoji": "🤖", "title": "AI-проект"},
-    {"name": "9_may_", "emoji": "🎉", "title": "Тематический проект"},
 ]
 
 LANG_COLORS = {
@@ -36,7 +32,7 @@ LANG_COLORS = {
 CARD_W = 280
 CARD_H = 120
 GAP = 20
-COLS = 3
+MAX_COLS = 3
 
 COLOR_BG = "#161b22"
 COLOR_BORDER = "#30363d"
@@ -107,14 +103,15 @@ def make_card(x, y, index, repo, info):
 
 
 def main():
-    rows = (len(REPOS) + COLS - 1) // COLS
-    width = COLS * CARD_W + (COLS - 1) * GAP
+    cols = min(MAX_COLS, len(REPOS))
+    rows = (len(REPOS) + cols - 1) // cols
+    width = cols * CARD_W + (cols - 1) * GAP
     height = rows * CARD_H + (rows - 1) * GAP
 
     cards = []
     for i, repo in enumerate(REPOS):
-        col = i % COLS
-        row = i // COLS
+        col = i % cols
+        row = i // cols
         x = col * (CARD_W + GAP)
         y = row * (CARD_H + GAP)
         info = fetch_repo_data(repo["name"])
