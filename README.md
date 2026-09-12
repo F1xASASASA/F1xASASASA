@@ -82,8 +82,10 @@
 
 <div align="center">
 
-[![visitka](https://img.shields.io/badge/visitka-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/visitka)
+[![wb_minecraft](https://img.shields.io/badge/wb__minecraft-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/wb_minecraft)
 [![cps_limiter](https://img.shields.io/badge/cps__limiter-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/cps_limiter)
+[![typingPro](https://img.shields.io/badge/typingPro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/typingPro)
+[![Hg_minecraft](https://img.shields.io/badge/Hg__minecraft-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/Hg_minecraft)
 
 </div>
 
