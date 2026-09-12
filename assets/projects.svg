@@ -1,16 +1,16 @@
-<svg width="580" height="120" viewBox="0 0 580 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="880" height="260" viewBox="0 0 880 260" xmlns="http://www.w3.org/2000/svg">
 
   <g opacity="0">
     <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.0s" fill="freeze" />
 
     <rect x="0" y="0" width="280" height="120" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" />
-    <rect x="0" y="0" width="280" height="3" rx="1.5" fill="#e34c26" opacity="0.8" />
+    <rect x="0" y="0" width="280" height="3" rx="1.5" fill="#b07219" opacity="0.8" />
 
-    <text x="18" y="34" font-family="Verdana, sans-serif" font-size="16" font-weight="bold" fill="#58A6FF">🌐 visitka</text>
-    <text x="18" y="58" font-family="Verdana, sans-serif" font-size="12" fill="#c9d1d9">Персональная визитка</text>
+    <text x="18" y="34" font-family="Verdana, sans-serif" font-size="16" font-weight="bold" fill="#58A6FF">⚔️ wb_minecraft</text>
+    <text x="18" y="58" font-family="Verdana, sans-serif" font-size="12" fill="#c9d1d9">WoolBrawl — Paper-плагин, battlebox-режим</text>
 
-    <circle cx="18" cy="92" r="5" fill="#e34c26" />
-    <text x="30" y="96" font-family="Verdana, sans-serif" font-size="12" fill="#8b949e">HTML</text>
+    <circle cx="18" cy="92" r="5" fill="#b07219" />
+    <text x="30" y="96" font-family="Verdana, sans-serif" font-size="12" fill="#8b949e">Java</text>
 
     <text x="262" y="96" font-family="Verdana, sans-serif" font-size="12" fill="#8b949e" text-anchor="end">⭐ 0  🍴 0</text>
   </g>
@@ -28,6 +28,36 @@
     <text x="330" y="96" font-family="Verdana, sans-serif" font-size="12" fill="#8b949e">HTML</text>
 
     <text x="562" y="96" font-family="Verdana, sans-serif" font-size="12" fill="#8b949e" text-anchor="end">⭐ 0  🍴 0</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.3s" fill="freeze" />
+
+    <rect x="600" y="0" width="280" height="120" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <rect x="600" y="0" width="280" height="3" rx="1.5" fill="#3178c6" opacity="0.8" />
+
+    <text x="618" y="34" font-family="Verdana, sans-serif" font-size="16" font-weight="bold" fill="#58A6FF">⌨️ typingPro</text>
+    <text x="618" y="58" font-family="Verdana, sans-serif" font-size="12" fill="#c9d1d9">VK мини-приложение (React + TS)</text>
+
+    <circle cx="618" cy="92" r="5" fill="#3178c6" />
+    <text x="630" y="96" font-family="Verdana, sans-serif" font-size="12" fill="#8b949e">TypeScript</text>
+
+    <text x="862" y="96" font-family="Verdana, sans-serif" font-size="12" fill="#8b949e" text-anchor="end">⭐ 2  🍴 0</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.44999999999999996s" fill="freeze" />
+
+    <rect x="0" y="140" width="280" height="120" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <rect x="0" y="140" width="280" height="3" rx="1.5" fill="#b07219" opacity="0.8" />
+
+    <text x="18" y="174" font-family="Verdana, sans-serif" font-size="16" font-weight="bold" fill="#58A6FF">🏹 Hg_minecraft</text>
+    <text x="18" y="198" font-family="Verdana, sans-serif" font-size="12" fill="#c9d1d9">HungerGames — Paper-плагин с бордером</text>
+
+    <circle cx="18" cy="232" r="5" fill="#b07219" />
+    <text x="30" y="236" font-family="Verdana, sans-serif" font-size="12" fill="#8b949e">Java</text>
+
+    <text x="262" y="236" font-family="Verdana, sans-serif" font-size="12" fill="#8b949e" text-anchor="end">⭐ 0  🍴 0</text>
   </g>
 
 </svg>
