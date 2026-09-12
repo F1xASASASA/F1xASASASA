@@ -8,12 +8,14 @@
 
 import json
 import os
+import textwrap
 import urllib.request
 
 USERNAME = "F1xASASASA"
 
 # Список репозиториев для показа (в этом порядке и будут карточки)
 REPOS = [
+    {"name": "visitka", "emoji": "🌐", "title": "Персональная визитка"},
     {"name": "wb_minecraft", "emoji": "⚔️", "title": "WoolBrawl — Paper-плагин, battlebox-режим"},
     {"name": "cps_limiter", "emoji": "⚡", "title": "Инструмент для работы с кликами"},
     {"name": "typingPro", "emoji": "⌨️", "title": "VK мини-приложение (React + TS)"},
@@ -32,9 +34,12 @@ LANG_COLORS = {
 }
 
 CARD_W = 280
-CARD_H = 120
+CARD_H = 140
 GAP = 20
 MAX_COLS = 3
+
+# Сколько символов помещается в одну строку описания при текущей ширине карточки
+DESC_CHARS_PER_LINE = 32
 
 COLOR_BG = "#161b22"
 COLOR_BORDER = "#30363d"
@@ -69,6 +74,19 @@ def fetch_repo_data(name):
         return {"stars": 0, "forks": 0, "language": None}
 
 
+def wrap_description(text, width=DESC_CHARS_PER_LINE, max_lines=2):
+    """Переносит описание максимум на max_lines строк, обрезая с многоточием, если не влезло."""
+    lines = textwrap.wrap(text, width=width)
+    if len(lines) <= max_lines:
+        return lines
+    trimmed = lines[:max_lines]
+    last = trimmed[-1]
+    if len(last) > width - 1:
+        last = last[: width - 1].rstrip()
+    trimmed[-1] = last + "…"
+    return trimmed
+
+
 def escape(text):
     return (
         text.replace("&", "&amp;")
@@ -82,11 +100,16 @@ def make_card(x, y, index, repo, info):
     lang_color = LANG_COLORS.get(lang, LANG_COLORS[None])
     delay = 0.15 * index
 
+    desc_lines = wrap_description(repo["title"])
+    desc_svg = ""
+    for i, line in enumerate(desc_lines):
+        desc_svg += f'\n    <text x="{x + 18}" y="{y + 54 + i * 16}" font-family="Verdana, sans-serif" font-size="12" fill="{COLOR_TEXT}">{escape(line)}</text>'
+
     lang_line = ""
     if lang:
         lang_line = f"""
-    <circle cx="{x + 18}" cy="{y + 92}" r="5" fill="{lang_color}" />
-    <text x="{x + 30}" y="{y + 96}" font-family="Verdana, sans-serif" font-size="12" fill="{COLOR_MUTED}">{escape(lang)}</text>
+    <circle cx="{x + 18}" cy="{y + 112}" r="5" fill="{lang_color}" />
+    <text x="{x + 30}" y="{y + 116}" font-family="Verdana, sans-serif" font-size="12" fill="{COLOR_MUTED}">{escape(lang)}</text>
 """
 
     return f"""
@@ -97,9 +120,9 @@ def make_card(x, y, index, repo, info):
     <rect x="{x}" y="{y}" width="{CARD_W}" height="3" rx="1.5" fill="{lang_color}" opacity="0.8" />
 
     <text x="{x + 18}" y="{y + 34}" font-family="Verdana, sans-serif" font-size="16" font-weight="bold" fill="{COLOR_ACCENT}">{repo['emoji']} {escape(repo['name'])}</text>
-    <text x="{x + 18}" y="{y + 58}" font-family="Verdana, sans-serif" font-size="12" fill="{COLOR_TEXT}">{escape(repo['title'])}</text>
+{desc_svg}
 {lang_line}
-    <text x="{x + CARD_W - 18}" y="{y + 96}" font-family="Verdana, sans-serif" font-size="12" fill="{COLOR_MUTED}" text-anchor="end">⭐ {info['stars']}  🍴 {info['forks']}</text>
+    <text x="{x + CARD_W - 18}" y="{y + 116}" font-family="Verdana, sans-serif" font-size="12" fill="{COLOR_MUTED}" text-anchor="end">⭐ {info['stars']}  🍴 {info['forks']}</text>
   </g>
 """
 
