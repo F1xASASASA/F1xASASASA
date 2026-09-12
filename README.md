@@ -15,7 +15,9 @@
 
 </div>
 
----
+<div align="center">
+<img src="assets/divider.svg" width="100%" />
+</div>
 
 ### 🧑‍💻 Обо мне
 
@@ -31,7 +33,9 @@
 
 > Пока учусь в школе/колледже, но всё свободное время трачу на код — цель на ближайший год: собрать полноценный пет-проект от фронта до бэка и не бросить на середине 🚀
 
----
+<div align="center">
+<img src="assets/divider.svg" width="100%" />
+</div>
 
 ### 🛠 Стек технологий
 
@@ -42,12 +46,8 @@
 </div>
 
 <div align="center">
-
 <img src="assets/divider.svg" width="100%" />
-
 </div>
-
----
 
 ### 🎯 Сейчас в разработке
 
@@ -56,7 +56,9 @@
 - 👯 Ищу проекты для коллабораций — если есть идея, пиши смело
 - ⚡ Факт обо мне: могу залипнуть на баге на 3 часа, а потом найти опечатку в одной букве
 
----
+<div align="center">
+<img src="assets/divider.svg" width="100%" />
+</div>
 
 ### 📊 Статистика GitHub
 
@@ -65,8 +67,6 @@
 <img src="https://raw.githubusercontent.com/F1xASASASA/F1xASASASA/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
 
 </div>
-
----
 
 <div align="center">
 <img src="assets/divider.svg" width="100%" />
@@ -91,7 +91,9 @@
 
 </div>
 
----
+<div align="center">
+<img src="assets/divider.svg" width="100%" />
+</div>
 
 <div align="center">
 
