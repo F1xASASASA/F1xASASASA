@@ -14,8 +14,10 @@ USERNAME = "F1xASASASA"
 
 # Список репозиториев для показа (в этом порядке и будут карточки)
 REPOS = [
-    {"name": "visitka", "emoji": "🌐", "title": "Персональная визитка"},
+    {"name": "wb_minecraft", "emoji": "⚔️", "title": "WoolBrawl — Paper-плагин, battlebox-режим"},
     {"name": "cps_limiter", "emoji": "⚡", "title": "Инструмент для работы с кликами"},
+    {"name": "typingPro", "emoji": "⌨️", "title": "VK мини-приложение (React + TS)"},
+    {"name": "Hg_minecraft", "emoji": "🏹", "title": "HungerGames — Paper-плагин с бордером"},
 ]
 
 LANG_COLORS = {
