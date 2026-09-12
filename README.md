@@ -10,10 +10,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 📊 Моя статистика GitHub
+## 📊 Моя активность
 
-   ![Stats](https://github-readme-stats.vercel.app/api?username=F1xASASASA&show_icons=true&theme=radical)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=F1xASASASA&layout=compact&theme=radical&hide_border=true)
+[![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F1xASASASA&theme=radical)](https://github.com/F1xASASASA)
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F1xASASASA&theme=radical)](https://github.com/F1xASASASA)
+
+[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=F1xASASASA&theme=radical)](https://github.com/F1xASASASA)
 
 ## 🚀 Мои проекты
 
