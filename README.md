@@ -12,7 +12,7 @@
 
 ## 📊 Моя статистика GitHub
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=F1xASASASA&show_icons=true&theme=radical&hide_border=true)
+   ![Stats](https://github-readme-stats.vercel.app/api?username=F1xASASASA&show_icons=true&theme=radical)
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=F1xASASASA&layout=compact&theme=radical&hide_border=true)
 
 ## 🚀 Мои проекты
