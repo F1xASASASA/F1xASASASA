@@ -1,0 +1,15 @@
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a1a2e">
+        <animate attributeName="stop-color" values="#1a1a2e;#8957e5;#1a1a2e" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#58A6FF">
+        <animate attributeName="stop-color" values="#58A6FF;#1a1a2e;#58A6FF" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <path d="M-100,60 C50,20 200,90 350,60 C500,30 650,90 800,60 C950,30 1000,60 1000,60 L1000,100 L-100,100 Z" fill="url(#bgGradF)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; -50,0; 0,0" dur="6s" repeatCount="indefinite" />
+  </path>
+</svg>

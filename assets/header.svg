@@ -1,0 +1,27 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF">
+        <animate attributeName="stop-color" values="#58A6FF;#8957e5;#58A6FF" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#8957e5">
+        <animate attributeName="stop-color" values="#8957e5;#58A6FF;#8957e5" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="160" fill="url(#bgGrad)"/>
+
+  <g transform="translate(0,160) scale(1,-1)">
+    <path d="M-100,110 C50,150 200,70 350,110 C500,150 650,70 800,110 C950,150 1000,110 1000,110 L1000,180 L-100,180 Z" fill="url(#waveGrad)" opacity="0.35">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -60,0; 0,0" dur="7s" repeatCount="indefinite" />
+    </path>
+    <path d="M-100,130 C50,100 200,160 350,130 C500,100 650,160 800,130 C950,100 1000,130 1000,130 L1000,180 L-100,180 Z" fill="url(#waveGrad)" opacity="0.55">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 40,0; 0,0" dur="5s" repeatCount="indefinite" />
+    </path>
+  </g>
+</svg>
