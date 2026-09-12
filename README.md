@@ -31,13 +31,13 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,cs,ts,git,github,vscode&theme=dark" alt="Skills" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:58A6FF&height=3&section=header" width="100%" />
 
 </div>
 
@@ -56,16 +56,37 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=F1xASASASA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1xASASASA&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api?username=F1xASASASA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1xASASASA&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="41%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=F1xASASASA&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=F1xASASASA&theme=tokyonight&hide_border=true&background=00000000" width="60%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=F1xASASASA&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%" />
 
 </div>
 
+> ⚠️ Если карточки выше не грузятся — это общий бесплатный сервис уперся в лимит запросов GitHub API. Обычно проходит само за пару минут, но если бесит — ниже есть инструкция, как за 2 минуты поднять свою копию, которая будет работать всегда.
+>
+> <details>
+> <summary>🔧 Как задеплоить свою копию (надёжно, навсегда)</summary>
+>
+> 1. Открой https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
+> 2. Залогинься через GitHub, нажми **Deploy**
+> 3. Через минуту получишь свою ссылку вида `твой-проект.vercel.app`
+> 4. Замени в README `github-readme-stats.vercel.app` на свою ссылку
+>
+> Готово — больше никаких общих лимитов.
+> </details>
+
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=40&section=header" width="100%" />
+</div>
 
 ### 🚀 Мои проекты
 
@@ -85,5 +106,7 @@
 > 💡 *Учусь, пишу код и делаю мир немного лучше, строчка за строчкой.*
 
 ![Snake animation](https://raw.githubusercontent.com/F1xASASASA/F1xASASASA/output/github-contribution-grid-snake.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=120&section=footer" width="100%" />
 
 </div>
