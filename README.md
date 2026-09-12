@@ -82,6 +82,7 @@
 
 <div align="center">
 
+[![visitka](https://img.shields.io/badge/visitka-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/visitka)
 [![wb_minecraft](https://img.shields.io/badge/wb__minecraft-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/wb_minecraft)
 [![cps_limiter](https://img.shields.io/badge/cps__limiter-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/cps_limiter)
 [![typingPro](https://img.shields.io/badge/typingPro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/typingPro)
@@ -97,7 +98,12 @@
 
 > 💡 *Учусь, пишу код и делаю мир немного лучше, строчка за строчкой.*
 
+<!--
+Змейка появится тут САМА после того, как ты настроишь GitHub Action (см. snake.yml).
+Просто раскомментируй строку ниже после первого успешного запуска Action.
+
 ![Snake animation](https://raw.githubusercontent.com/F1xASASASA/F1xASASASA/output/github-contribution-grid-snake.svg)
+-->
 
 <img src="assets/footer.svg" width="100%" />
 
