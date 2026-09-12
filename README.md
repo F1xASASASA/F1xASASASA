@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Привет%2C+я+Арсений!+%F0%9F%91%8B;18+лет+%7C+Разработчик;Учусь+создавать+крутые+проекты" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1a1a2e&height=200&section=header&text=Привет,%20я%20Арсений!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=18%20лет%20%7C%20Разработчик&descAlignY=55&descSize=20" alt="Header banner" />
 
 <br>
 
@@ -69,6 +69,11 @@
 
 > 💡 *Учусь, пишу код и делаю мир немного лучше, строчка за строчкой.*
 
+<!--
+Змейка появится тут САМА после того, как ты настроишь GitHub Action (см. snake.yml).
+Просто раскомментируй строку ниже после первого успешного запуска Action.
+
 ![Snake animation](https://raw.githubusercontent.com/F1xASASASA/F1xASASASA/output/github-contribution-grid-snake.svg)
+-->
 
 </div>
