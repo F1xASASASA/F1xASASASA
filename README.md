@@ -74,14 +74,22 @@
 
 ### 🚀 Мои проекты
 
-| Проект | Стек | Описание |
-|---|---|---|
-| 🌐 [**visitka**](https://github.com/F1xASASASA/visitka) | HTML/CSS | Персональная визитка |
-| 💬 [**Forum**](https://github.com/F1xASASASA/Forum) | TypeScript | Веб-форум |
-| ⚡ [**cps_limiter**](https://github.com/F1xASASASA/cps_limiter) | HTML/JS | Инструмент для работы с кликами |
-| 🖥️ [**server**](https://github.com/F1xASASASA/server) | CSS | Серверный проект |
-| 🤖 [**character-ai**](https://github.com/F1xASASASA/character-ai) | HTML | AI-проект |
-| 🎉 [**9_may_**](https://github.com/F1xASASASA/9_may_) | HTML | Тематический проект |
+<div align="center">
+
+<img src="assets/projects.svg" width="100%" alt="Projects" />
+
+</div>
+
+<div align="center">
+
+[![visitka](https://img.shields.io/badge/visitka-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/visitka)
+[![Forum](https://img.shields.io/badge/Forum-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/Forum)
+[![cps_limiter](https://img.shields.io/badge/cps__limiter-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/cps_limiter)
+[![server](https://img.shields.io/badge/server-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/server)
+[![character-ai](https://img.shields.io/badge/character--ai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/character-ai)
+[![9_may_](https://img.shields.io/badge/9__may__-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/9_may_)
+
+</div>
 
 ---
 
