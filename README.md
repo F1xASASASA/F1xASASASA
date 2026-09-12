@@ -69,11 +69,6 @@
 
 > 💡 *Учусь, пишу код и делаю мир немного лучше, строчка за строчкой.*
 
-<!--
-Змейка появится тут САМА после того, как ты настроишь GitHub Action (см. snake.yml).
-Просто раскомментируй строку ниже после первого успешного запуска Action.
-
 ![Snake animation](https://raw.githubusercontent.com/F1xASASASA/F1xASASASA/output/github-contribution-grid-snake.svg)
--->
 
 </div>
