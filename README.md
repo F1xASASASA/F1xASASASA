@@ -1,66 +1,130 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Header banner" width="100%" />
+<img src="assets/header.svg" alt="F1xASASASA header" width="100%" />
+
+# Арсений · F1xASASASA
+
+### Web developer · Backend enjoyer · Building things for fun
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+%2B+Backend;React+%2F+Node.js+%2F+Java;Learning+by+building;Always+shipping+something" alt="Typing SVG" />
 
 <br>
 
-# Привет, я Арсений! 👋
+[![Profile Views](https://komarev.com/ghpvc/?username=F1xASASASA&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/F1xASASASA)
+[![Followers](https://img.shields.io/github/followers/F1xASASASA?style=for-the-badge&logo=github&color=8957E5&labelColor=161B22)](https://github.com/F1xASASASA?tab=followers)
+![Open to collaboration](https://img.shields.io/badge/OPEN_TO-COLLABORATION-238636?style=for-the-badge&labelColor=161B22)
 
-**18 лет · Веб-разработчик · Учусь и пишу код**
+</div>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=F1xASASASA&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/F1xASASASA?style=for-the-badge&color=58A6FF&labelColor=1a1a2e)](https://github.com/F1xASASASA?tab=followers)
+## 👋 Обо мне
 
-</div>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" />
-</div>
+Я **Арсений**, мне 18. Учусь и параллельно занимаюсь разработкой — больше всего люблю проекты, где можно пройти весь путь от идеи и интерфейса до бэкенда и деплоя.
 
-### 🧑‍💻 Обо мне
+- 🌐 Основной интерес — **web development**
+- ⚙️ Прокачиваю **backend** и архитектуру приложений
+- 🎮 Иногда ухожу в **Minecraft / game-dev** проекты
+- 🧩 Люблю разбираться в вещах через практику
+- 🤝 Открыт к интересным проектам и коллаборациям
 
-Привет! Мне **18 лет**, я сейчас учусь и параллельно много кодю в свободное время — веб-разработка затянула сильнее всего 🕸️
+</td>
+<td width="45%" valign="top">
 
-- 🎓 Совмещаю учёбу с разработкой — да, иногда домашка подождёт, пока доделываю проект 😄
-- 🌐 Больше всего кайфую от веба: от вёрстки страниц до логики на JS
-- 🌱 Постоянно пробую новое — сейчас прокачиваю бэкенд и присматриваюсь к C#
-- ✍️ Стараюсь писать код, который потом не стыдно самому же читать
-- ☕ Лучшие идеи приходят почему-то поздно вечером
-- 🤝 Открыт для совместных проектов, движух и просто поболтать про код
-- 📫 Найти меня можно тут же, на [GitHub](https://github.com/F1xASASASA)
+### Сейчас в фокусе
 
-> Пока учусь в школе/колледже, но всё свободное время трачу на код — цель на ближайший год: собрать полноценный пет-проект от фронта до бэка и не бросить на середине 🚀
+```js
+const ars = {
+  frontend: ["React", "TypeScript"],
+  backend: ["Node.js", "Express", "Java"],
+  learning: ["C#", "DevOps"],
+  motto: "build → break → fix → ship"
+}
+```
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" />
-</div>
+</td>
+</tr>
+</table>
 
-### 🛠 Стек технологий
+<br>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css,cs,ts,git,github,vscode&theme=dark" alt="Skills" />
-
-</div>
-
-<div align="center">
-<img src="assets/divider.svg" width="100%" />
-</div>
-
-### 🎯 Сейчас в разработке
-
-- 🔭 Подтягиваю бэкенд, чтобы делать не только красивый фронт, но и рабочую логику под капотом
-- 🌱 Изучаю C# — хочу попробовать себя и вне веба
-- 👯 Ищу проекты для коллабораций — если есть идея, пиши смело
-- ⚡ Факт обо мне: могу залипнуть на баге на 3 часа, а потом найти опечатку в одной букве
+## 🧰 Toolbox
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" />
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,java,python,cs,html,css,git,github,vscode&theme=dark&perline=12" alt="Tech stack" />
+
+<br><br>
+
+![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Java](https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![C%23](https://img.shields.io/badge/C%23-161B22?style=flat-square&logo=dotnet&logoColor=512BD4)
+
 </div>
 
-### 📊 Статистика GitHub
+<br>
+
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⌨️ [typingPro](https://github.com/F1xASASASA/typingPro)
+
+Тренажёр печати, который вырос из небольшого проекта в полноценное приложение с игровой логикой и статистикой.
+
+`TypeScript` · `Vite` · `Web`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [cps_limiter](https://github.com/F1xASASASA/cps_limiter)
+
+Minecraft-проект вокруг контроля CPS и игровой механики.
+
+`Java` · `Minecraft` · `Fabric`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧱 [wb_minecraft](https://github.com/F1xASASASA/wb_minecraft)
+
+Один из моих Minecraft-проектов — эксперименты с серверной логикой и механиками.
+
+`Java` · `Minecraft`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [visitka](https://github.com/F1xASASASA/visitka)
+
+Веб-проект с упором на интерфейс, оформление и frontend-разработку.
+
+`HTML` · `CSS` · `JavaScript`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![All repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22)](https://github.com/F1xASASASA?tab=repositories)
+
+</div>
+
+<br>
+
+## 📊 GitHub activity
 
 <div align="center">
 
@@ -68,38 +132,27 @@
 
 </div>
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" />
-</div>
+<br>
 
-### 🚀 Мои проекты
+## 🎯 What I'm working toward
 
-<div align="center">
+> Хочу собирать проекты целиком: **идея → дизайн → frontend → backend → deployment**.  
+> Для меня GitHub — не просто склад репозиториев, а история того, как я расту как разработчик.
 
-<img src="assets/projects.svg" width="100%" alt="Projects" />
-
-</div>
+<br>
 
 <div align="center">
 
-[![visitka](https://img.shields.io/badge/visitka-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/visitka)
-[![wb_minecraft](https://img.shields.io/badge/wb__minecraft-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/wb_minecraft)
-[![cps_limiter](https://img.shields.io/badge/cps__limiter-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/cps_limiter)
-[![typingPro](https://img.shields.io/badge/typingPro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/typingPro)
-[![Hg_minecraft](https://img.shields.io/badge/Hg__minecraft-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F1xASASASA/Hg_minecraft)
+### Find me on GitHub
 
-</div>
+[![GitHub](https://img.shields.io/badge/@F1xASASASA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F1xASASASA)
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" />
-</div>
-
-<div align="center">
-
-> 💡 *Учусь, пишу код и делаю мир немного лучше, строчка за строчкой.*
+<br><br>
 
 ![Snake animation](https://raw.githubusercontent.com/F1xASASASA/F1xASASASA/output/github-contribution-grid-snake.svg)
 
-<img src="assets/footer.svg" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="" />
+
+<sub>Code. Learn. Break things. Fix them. Repeat.</sub>
 
 </div>
